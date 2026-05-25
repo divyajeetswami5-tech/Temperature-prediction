@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific
+.venv/
+**/.ipynb_checkpoints/
+1744635432983/Temperature_Prediction_Learning_Document.html
